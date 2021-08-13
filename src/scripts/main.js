@@ -13,6 +13,10 @@ const render = () => {
 
 render()
 
-
-
+mainContainer.addEventListener(
+    "stateChanged",
+    CustomEvent => {
+        render(new CustomEvent("stateChanged"))
+    }
+)
 
