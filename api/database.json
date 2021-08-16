@@ -3,88 +3,11 @@
   "completions": [],
   "requests": [
     {
-      "id": 1,
-      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
-      "address": "34445 Bianka Ports",
-      "budget": 400,
-      "neededBy": "2021-08-27"
-    },
-    {
-      "id": 2,
-      "description": "The second object in my requests array.",
-      "address": "802 Billy Bobs Court",
-      "budget": 1200,
-      "neededBy": "2021-09-09"
-    },
-    {
-      "description": "ttttt",
-      "address": "aaaaa",
-      "budget": "100",
-      "neededBy": "2021-08-21",
-      "id": 3
-    },
-    {
-      "description": "ttttt",
-      "address": "aaaaa",
-      "budget": "100",
-      "neededBy": "2021-08-21",
-      "id": 4
-    },
-    {
-      "description": "ttttt",
-      "address": "aaaaa",
-      "budget": "100",
-      "neededBy": "2021-08-21",
-      "id": 5
-    },
-    {
-      "description": "ttttt",
-      "address": "aaaaa",
-      "budget": "100",
-      "neededBy": "2021-08-21",
-      "id": 6
-    },
-    {
-      "description": "ttttt",
-      "address": "999 aaa st",
-      "budget": "100",
-      "neededBy": "2021-08-21",
-      "id": 7
-    },
-    {
-      "description": "ttttt",
-      "address": "999 aaa st",
-      "budget": "100",
-      "neededBy": "2021-08-21",
-      "id": 8
-    },
-    {
-      "description": "dddd",
-      "address": "555 fr",
-      "budget": "23",
-      "neededBy": "2021-08-13",
-      "id": 9
-    },
-    {
       "description": "Need drains cleaned and sewer line cleaned",
       "address": "888 My House Ave",
       "budget": "250.00",
       "neededBy": "2021-08-13",
       "id": 10
-    },
-    {
-      "description": "My toilet makes a noise",
-      "address": "802 The Best St",
-      "budget": "150",
-      "neededBy": "2021-08-18",
-      "id": 11
-    },
-    {
-      "description": "My sink is overflowing",
-      "address": "978 winthorn ave",
-      "budget": "300",
-      "neededBy": "2021-08-16",
-      "id": 12
     }
   ]
 }
